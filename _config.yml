@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Digital Scholarship at UDel - TEST SITE
 email: nlopez@udel.com
-description: Examples of work
+description: Examples of work - edit
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: batlopez
